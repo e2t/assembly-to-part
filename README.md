@@ -1,4 +1,6 @@
-﻿# AssemblyToPart
+This project has been moved to https://codeberg.org/e2t/assembly-to-part
+ 
+ # AssemblyToPart
 Макрос для пакетного сохранения сборок SolidWorks в виде деталей.
 
 ### Зависимости
